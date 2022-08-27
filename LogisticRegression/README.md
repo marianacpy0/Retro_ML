@@ -18,4 +18,5 @@ The output shows the error and then an array of the params along "Hypotesis" and
 
 This program has a plot function for the errors to determine how the predictions are behaving, in this case the result was:
 
-![Figure_1](https://user-images.githubusercontent.com/104474575/187023116-56556f60-289a-4180-a819-a1a01ec04aca.png)
+![Figure_1-3](https://user-images.githubusercontent.com/104474575/187023202-9669cde3-b9b6-4a08-90e9-4074d8f8c186.png)
+
