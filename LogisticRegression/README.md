@@ -9,7 +9,7 @@ The data set consists a bank note dataset which involves predicting wheater is a
 
 It has a binary classification (0 for authentic, 1 for non). 
 
-The parameters were adjusted by running the code and obtaining the ideal parameters so it was faster to obtain the results, however the error is still significant which means it is necessary to adjust the hyperparameters or the data frame on its defect. 
+The parameters were adjusted by running the code and obtaining the ideal parameters so it was faster to obtain the results with the lowest possible error, however the error is still significant which means it is necessary to adjust the hyperparameters or the data frame on its defect. 
 
 The output shows the error and then an array of the params along "Hypotesis" and the "Expected value" and its respective values as showed below.
 
@@ -20,3 +20,4 @@ This program has a plot function for the errors to determine how the predictions
 
 ![Figure_1-3](https://user-images.githubusercontent.com/104474575/187023202-9669cde3-b9b6-4a08-90e9-4074d8f8c186.png)
 
+Here we can see how the error decreses but as mentiones, there's still some error. 
