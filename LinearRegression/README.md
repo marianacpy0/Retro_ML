@@ -17,4 +17,4 @@ The output shows the erro and then an array of the params along "Hypotesis" and 
 
 The program also shows a plot for the errors found (mean of every error), for this case the plot obtained was:
 
-![Figure_1](https://user-images.githubusercontent.com/104474575/187022834-6530e944-2e5e-4f32-8422-eb36cd69bbc7.png)
+![Figure_1-1](https://user-images.githubusercontent.com/104474575/187023251-790da984-7f75-4523-b2f3-4114d4d03fc8.png)
