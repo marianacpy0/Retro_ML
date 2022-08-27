@@ -1,3 +1,6 @@
+Mariana Castro Payns
+A01706038
+
 # Retro_ML
 
 This repository contains two folders:
