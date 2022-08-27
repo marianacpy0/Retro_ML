@@ -5,6 +5,8 @@ A01706038
 
 This regression consists in two files, the main with the data set. 
 
+The data set consists in several values that gives the type of wime.
+
 What this model does is give a prediction for the Alcohol content using some of the data set columns. 
 
 The parameters were adjusted by running the code and obtaining the ideal parameters so it was faster to obtain the results. 
