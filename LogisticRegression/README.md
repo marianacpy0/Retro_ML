@@ -13,7 +13,8 @@ The parameters were adjusted by running the code and obtaining the ideal paramet
 
 The output shows the error and then an array of the params along "Hypotesis" and the "Expected value" and its respective values as showed below.
 
-![Screenshot from 2022-08-27 03-38-44](https://user-images.githubusercontent.com/104474575/187023089-0fc60b41-00bd-4482-8c93-d85f78b6eb56.png)
+![Screenshot from 2022-08-27 03-53-23](https://user-images.githubusercontent.com/104474575/187023146-aa36de6d-1ef0-4e35-bd09-3e3898a7d7c0.png)
+
 
 This program has a plot function for the errors to determine how the predictions are behaving, in this case the result was:
 
