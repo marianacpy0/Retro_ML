@@ -82,7 +82,7 @@ while ans:
         print("Expected value: ", exp.iloc[12])
         print("Predictions: ", predicted4)
     elif ans=="6":
-        # Prediction 5 for the 15, 47, 23, 12 rows of df
+        # Prediction 5 for the 15, 57, 23, 100 rows of df
         xfit3 = X.iloc[[15,57,23,100],:]
         predicted5 = model.predict(xfit3)
         print("Expected value: ", exp.iloc[15])
