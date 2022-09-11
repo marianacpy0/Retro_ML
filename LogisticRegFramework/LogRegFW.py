@@ -21,12 +21,14 @@ df_wine = pd.read_csv('Iris.csv')
 
 # Define quality as expected value to return
 exp = df_wine['Species']
+
+# Drop expected column and irrelevant columns
 X = df_wine.drop(['Id', 'Species'], axis = 1)
 # Check data and expected size
 print("Size of DF - ", X.shape)
 print("Size of expected values - ", exp.shape)
 
-# Split data
+# Split data in train and test
 Xtrain, Xtest, ytrain, ytest = train_test_split(X, exp)
 
 # Specify model with maximun iterations
