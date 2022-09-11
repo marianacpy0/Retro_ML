@@ -9,4 +9,4 @@ This repository contains three folders:
 
 2. The second one named "LogosticRegression" contains a code for a binary logistic regression using a bank data set where is predicts the class either is 0 or 1, without tht use of frameworks. 
 
-3. The third one named "LogisticRegFramework" it containes a logistic regression using the wine quality data set, where it predicts the quality, in this case it is made with frameworks.  
+3. The third one named "LogisticRegFramework" it containes a logistic regression using the iris data set, where it predicts the species, in this case it is made with frameworks.  
